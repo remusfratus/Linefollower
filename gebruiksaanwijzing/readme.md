@@ -125,7 +125,7 @@ De robot rijdt stabiel met volgende parameters:
 
 <img width="134" alt="image" src="https://user-images.githubusercontent.com/87031331/208112452-a9cbe809-44ee-4056-b69c-c64e12ad536b.png">
 
-
+(Opmerking: over de parameter 'knipperperiode' moeten we ons geen zorgen maken, deze parameter bepaalt enkel de frequentie waarmee de ingebouwde led op de arduino zal knipperen. Dit dient enkel ter controle.)
 
 
 ### start/stop button
