@@ -11,7 +11,7 @@ Controleer of de linefollower uit staat. Haal vervolgens de batterijhouder uit h
 Batterijen opladen:
 Plaats beide batterijen juist in de batterijoplader en verbind deze via de usb-kabel met de nodige dongle aan een stekker. !Gebruik niet de usb-poort van een computer, deze kan de nodige stroomsterktes niet leveren.
 
-<img width="782" alt="image" src="https://user-images.githubusercontent.com/87031331/208085188-ed45e429-89c6-47f5-b3b3-8580aa6c1fe1.png">
+
 
 <img width="242" alt="image" src="https://user-images.githubusercontent.com/87031331/208083650-49421fec-2010-4efc-b786-a041c8b95758.png">
 
