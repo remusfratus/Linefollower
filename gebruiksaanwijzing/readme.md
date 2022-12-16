@@ -25,7 +25,7 @@ Eens de batterijen verwijdert zijn uit de oplader kunnen deze teruggeplaatst wor
 
 ### draadloze communicatie
 #### verbinding maken
-uitleg over het verbinden van de robot met laptop / smartphone
+Om met de smartphone te kunnen 
 
 #### commando's
 debug [on/off]  
