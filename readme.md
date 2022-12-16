@@ -1,6 +1,6 @@
 # LineFollower
 <br />
-lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
+
 <br />
 <br />
 [picture]
@@ -9,21 +9,21 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 <br />
-microcontroller:
+microcontroller:Atmega32U4 (Arduino Leonardo
 <br />
-motors: 
+motors: Micro metal gear 6V 50:1
 <br />
-h-bridge:
+h-bridge: DRV 8835
 <br />
-sensors:
+sensors:QTR-8A
 <br />
-batteries:
+batteries: INR18650-28HE 2800mAh - 10A
 <br />
-wireless communication:
+wireless communication:HC-05
 <br />
-distance sensor - motors:
+distance sensor - motors: 125MM
 <br />
-weight:
+weight:213g
 <br />
-speed: 
+speed: 0,753m/s
 <br />
