@@ -13,7 +13,8 @@ Plaats beide batterijen juist in de batterijoplader en verbind deze via de usb-k
 
 
 
-<img width="242" alt="image" src="https://user-images.githubusercontent.com/87031331/208083650-49421fec-2010-4efc-b786-a041c8b95758.png">
+<img width="152" alt="image" src="https://user-images.githubusercontent.com/87031331/208112702-9d41bb68-8c26-4081-9aab-590e6c66c8d0.png">
+
 
 Verwijder na het opladen de batterijen van de oplader. !Lees aandachtig de handleiding van de oplader voor gebruik!
 Plaatsen van de batterijen:
