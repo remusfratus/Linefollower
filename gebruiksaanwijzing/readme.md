@@ -25,7 +25,16 @@ Eens de batterijen verwijdert zijn uit de oplader kunnen deze teruggeplaatst wor
 
 ### draadloze communicatie
 #### verbinding maken
-Om met de smartphone te kunnen 
+Om met de smartphone te kunnen verbinden met de linefollower maken we gebruik van de app "Bluetooth terminal HC-05", die we kunnen downloaden in de PlayStore. 
+
+<img width="138" alt="image" src="https://user-images.githubusercontent.com/87031331/208103003-7095e475-383c-44f1-a4af-c6791eb99d94.png">
+
+Vervolgens zetten we de linefollower aan en zien we de rode en blauwe led op de HC-05 flikkeren met een frequentie van 4 blinks per seconde. 
+Op het home-scherm van de app drukken we rechtsboven op 'SCAN' en kiezen we de HC-05. 
+
+<img width="142" alt="image" src="https://user-images.githubusercontent.com/87031331/208103743-27fdc1b1-22ad-48ac-b33d-7141e115f5db.png">
+
+
 
 #### commando's
 debug [on/off]  
